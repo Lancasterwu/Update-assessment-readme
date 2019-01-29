@@ -53,7 +53,8 @@ This group of students finished Groups and Interactions of Professional Skills
 everitt-andrew
 ALEXANDERB82
 leonardoz15
-reibelj -  Understanding and adopting best practices, Assisting with Project management with GitHub, specifically the Flow Model and Python Development
+reibelj -  Understanding and adopting best practices, Assisting with Project management 
+with GitHub, specifically the Flow Model and Python Development
 ```
 
 This group of students handled commits a little differently. They created a single
